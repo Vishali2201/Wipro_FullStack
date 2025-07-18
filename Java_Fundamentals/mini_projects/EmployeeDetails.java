@@ -15,7 +15,7 @@ public class EmployeeDetails {
         int[] hraValues = {8000, 12000, 8000, 6000, 20000, 9000, 12000};
         int[] incomeTaxes = {3000, 9000, 1000, 2000, 20000, 4400, 10000};
 
-        
+
         boolean isEmployeeFound = false;
 
         for (int i = 0; i < empId.length; i++) 
@@ -67,3 +67,4 @@ public class EmployeeDetails {
         }
     }
 }
+
